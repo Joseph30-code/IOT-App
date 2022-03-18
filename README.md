@@ -3,7 +3,7 @@ A device that can Turn On via Off your main switchboard through time.The device 
 
 The App contains three layout files, the first one includes the QR Code which is unique and connects your hone with the main controller connecting your device.
 
-![QR_Code](https://user-images.githubusercontent.com/75478536/158921746-e782d8ef-b7be-4cc4-b990-c442ba9000a6.jpg)
+![QR_Code](https://user-images.githubusercontent.com/75478536/158921746-e782d8ef-b7be-4cc4-b990-c442ba9000a6.jpg) 
 
 The Second layout contains your identity credidentials.
 
